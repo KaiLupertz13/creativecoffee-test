@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Creative Coffee</title>
+	<link rel="shortcut-icon" type="image/x-icon" href="">
+	<style type="text/css">
+
+	body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+
+}
+
+h1 {
+	font-size: 32px;
+  font-family: sans-serif, Helvetica;
+  color: rgb(0,0,0);
+}
+
+h2 {
+	font-size: 56px;
+	color: #fff
+}
+
+
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+ 
+
+   color: #ffffff;
+}
+
+
+
+
+p {
+  font-size: 2rem;
+  color: white; 
+}
+
+a {
+	font-size: 1.25em;
+	text-decoration: none;
+	  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+
+.copyright{
+
+
+
+	color: #000
+
+}
+
+.potatoes{
+
+
+	position: absolute;left: 450px; top: 800px;
+}
+
+
+
+
+
+.hateyafoxy{
+
+	color: #000;
+
+
+}
+
+
+.second{
+
+
+	
+	color: #fff;
+}
+
+
+ul{
+
+color: white;
+position: absolute;left: 565px; top: 1200px;
+font-size: 25px;
+font-family: 'Trebuchet MS', Helvetica, sans-serif;
+
+
+}
+
+.joinnow-1{
+color: white;
+}
+
+.joinnow-1:hover{
+color: #ffa500;
+}
+
+.button{
+color: #fff;
+font-size: 50px;
+position: absolute;
+top: 1750px;
+left: 600px;
+
+}
+
+
+.button-box{
+	position: absolute; 
+	height: 75px; 
+	width: 260px; 
+	background-color: #ffa500; 
+	left: 580px; 
+	top: 1742px; 
+	border-radius: 10px;
+
+}
+
+
+
+
+</style>
+</head>
+
+<body background="https://i.imgur.com/JWxU7mc.png">
+
+	<div class="hero">
+	
+		<p>Welcome to Creative Coffee</p>
+		<a class="joinnow-1" href="https://discordapp.com/api/guilds/483617523619856414/widget.json" target="_blank" >Join Now.</a>
+	</div>
+	
+	<div class="cclogo-header" style=" position: absolute; height: 150px; width: 1440px; background-color: #000; left: 0px; top: 0px; opacity: 0.3; "></div>
+
+	<img class="cc-logobanner" style="position: absolute; left: 480px; top: -50px; height: 270px; width: 480px;" src="https://i.imgur.com/LVKt28Q.png">
+
+<div class="second">
+<h1 style="color: #fff; "> A rapidly Growing</h1>
+
+<h2 style="color: #fff; font-family: sans-serif;">Server</h2>
+
+
+
+
+
+
+
+</div>
+
+<h3 style=" font-size: 60px; position: absolute;top: 1000px; left: 530px; color: #fff; font-family: sans-serif, Helvetica;">Why to join?</h3>
+
+
+<ul style=" text-align: left; ">
+	
+<li>Funny Communitty</li>
+<li>Looking for Staff</li>
+<li>Friendly</li>
+
+
+</ul>
+
+
+<div style=" position: absolute; height:100px; width: 1440px; background-color: #000;  opacity: 0; top: 2000px; "></div>
+	<div class="diflang-box" style=" position: absolute; height: 50px; width: 340px; background-color: #fff; left: 533px; top: 1450px; opacity: 0.1; border-radius: 5px;"></div>
+
+
+<h1 style="color: white; position: absolute; top: 1435px; left: 550px; ">Different Languages</h1>
+	
+<p style="font-family: 'Trebuchet MS', Helvetica, sans-serif; position: absolute; top: 1500px; left: 330px; ">We have: Italian, Portuguese, and Spanish channels, <br> for you to find a language buddy!</p>
+
+<div class="button-box"></div>
+<a class="button" href="https://discord.gg/XtJgBer" target="_blank" >Join Now</a>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
